@@ -20,10 +20,12 @@ python run.py expts/focol/focol.py -h
 ```
 
 ## Citation
+```
 If you find the code useful, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/10020851):
-@inproceedings{chen2021focol,
+@inproceedings{chen2022focol,
    title="Improving Representation Learning for Session-based Recommendation",
    author="Tianwen {Chen} and Raymond Chi-Wing {Wong}",
    booktitle="IEEE International Conference on Big Data",
    year="2022"
 }
+```
